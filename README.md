@@ -1,1 +1,1 @@
-# VSD_SoC_Design-Program
+# VSD SoC Design Workshop
