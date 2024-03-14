@@ -1,6 +1,6 @@
 # How to talk to Computers?
 
-### 1. Introduction to QFN-48, Package, chips, pads, core, die and IPs
+### Introduction to QFN-48, Package, chips, pads, core, die and IPs
 
 So, to start how actually we talk to the computers.. Let's dive into this topic
 
@@ -38,7 +38,7 @@ A chip which is reverse engineered and the inside of the chip is seen, in which 
 
 And inside the core, we can various things like RISC-V SoC, SRAM, PLL, ADC, DAC, SPI etc..
 
-### 2. Introduction to RISC-V ISA, Instruction Set Architecture
+### Introduction to RISC-V ISA, Instruction Set Architecture
 
 `ISA`: ISA is the set of instructions that a processor can execute.
 
@@ -56,7 +56,7 @@ Here's an extra detail: There's a special code called HDL (Hardware Description 
 
 So, we will be looking into more on how RTL2GDS is done in the upcoming sections
 
-### 3. From software applications to hardware
+### From software applications to hardware
 
 Now, Ever wondered how you click an icon and magic happens on your screen? Let's understand the process
 
