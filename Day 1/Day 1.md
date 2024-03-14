@@ -14,7 +14,9 @@ Inside the Processor, what lies is the core of the everything. For example take 
 
 The interconnects are made between the integrated circuit (IC) and its packaging during semiconductor device fabrication with wire bonds. This can be depicted from the above image, in which to the cental chip wire bonds are connected to all the pins on the packaging.
 
-![image3](images/3.jpg)
+<p align="center">
+  <img width="350" height="300" src="images/3.jpg">
+</p>
 
 A chip which is reverse engineered and the inside of the chip is seen, in which the wire bonds are connneted to the chip and all the other pins on the packaging.
 
