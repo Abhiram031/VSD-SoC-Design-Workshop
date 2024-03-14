@@ -73,7 +73,11 @@ Now, Ever wondered how you click an icon and magic happens on your screen? Let's
    Finally the netlist converted into layout using the RTL2GDS flow.
 
 ![image5](images/5.png)
-<p style="text-align: center;">Application to Hardware Layout flow</p>
+<p align="center">
+  Application to Hardware Layout flow
+</p>
 
 ![image6](images/6.png)
-<p style="text-align: center;">ISA to Hardware Layout flow</p>
+<p align="center">
+  ISA to Hardware Layout flow
+</p>
