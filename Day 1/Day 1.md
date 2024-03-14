@@ -10,15 +10,15 @@ To begin with, each computer has a Processor/SoC which all generally have all of
 
 Inside the Processor, what lies is the core of the everything. For example take Arduino Leonardo, which has the ATMega32u4 RISC-based microcontroller.
 
-![[images\2.png]]
+![image2](images/2.png)
 
 The interconnects are made between the integrated circuit (IC) and its packaging during semiconductor device fabrication with wire bonds. This can be depicted from the above image, in which to the cental chip wire bonds are connected to all the pins on the packaging.
 
-![[images\3.jpg]]
+![image3](images/3.jpg)
 
 A chip which is reverse engineered and the inside of the chip is seen, in which the wire bonds are connneted to the chip and all the other pins on the packaging.
 
-![[images\image1.png]]
+![image11](images/image1.png)
 
 - **`QFN-48`**: This refers to a type of package used for integrated circuits (ICs). It's a Quad Flat No-Lead package with 48 pins. It's a miniature, square-shaped package.
 
@@ -48,7 +48,7 @@ Here's how we bridge the gap:
 
 Here's an extra detail: There's a special code called HDL (Hardware Description Language) that acts like a bridge between the RISC-V architecture (think of it as the brain of the computer) and the layout (the physical chip).
 
-![[images\4.png]]
+![image4](images/4.png)
 
 So, we will be looking into more on how RTL2GDS is done in the upcoming sections
 
@@ -68,8 +68,8 @@ Now, Ever wondered how you click an icon and magic happens on your screen? Let's
    
    Finally the netlist converted into layout using the RTL2GDS flow.
 
-![[images\5.png]]
+![image5](images/5.png)
 <p style="text-align: center;">Application to Hardware Layout flow</p>
 
-![[images\6.png]]
+![image6](images/6.png)
 <p style="text-align: center;">ISA to Hardware Layout flow</p>
