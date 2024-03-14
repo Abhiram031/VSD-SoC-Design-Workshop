@@ -6,11 +6,11 @@ So, to start how actually we talk to the computers.. Let's dive into this topic
 
 To begin with, each computer has a Processor/SoC which all generally have all of the things shown in the below image.
 
-![](images\Screenshot%20(147).png)
+![](images\Screenshot(147).png)
 
 Inside the Processor, what lies is the core of the everything. For example take Arduino Leonardo, which has the ATMega32u4 RISC-based microcontroller.
 
-![](images\Untitled%20design%20(14).png)
+![](images\Untitled design (14).png)
 
 The interconnects are made between the integrated circuit (IC) and its packaging during semiconductor device fabrication with wire bonds. This can be depicted from the above image, in which to the cental chip wire bonds are connected to all the pins on the packaging.
 
