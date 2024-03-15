@@ -44,7 +44,7 @@ OpenLane has multiple design files and we are  working on `picorv32a design`
   <img width="1000" height="400" src="../images/18.png">
 </p>
 
-Run synthesis with the below command:
+Run synthesis with the command:
 `run_synthesis`
 
 - After the synthesis step is complete, reports and results are generated.
