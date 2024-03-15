@@ -29,7 +29,7 @@
 OpenLane has multiple design files and we are  working on `picorv32a design`
 
 <p align="center">
-  <img width="850" height="150" src="../images/16.png">
+  <img width="950" height="150" src="../images/16.png">
 </p>
 
 - Next We will setup the design stage for the flow and to begin with synthesis of a design:
@@ -41,7 +41,7 @@ OpenLane has multiple design files and we are  working on `picorv32a design`
 - This creates the new directory named `runs` under picorv32a folder that consists of folder with name as datetime when the above command is run. It consists of results, reports, command logs, etc. as shown below.
 
 <p align="center">
-  <img width="1100" height="400" src="../images/18.png">
+  <img width="1000" height="400" src="../images/18.png">
 </p>
 
 Run synthesis with the command:
