@@ -56,8 +56,8 @@ To design an ASIC, we mainly require three parts
 <p align="center">Chip and Floor Planning</p>
 <p align="center">
   <img width="300" height="300" src="../images/6.png">
-  <center>Macro Floor Planning</center>
 </p>
+<p align="center">Macro Floor Planning</p>
 
   - multiple power and ground (VDD and VSS/GND) connections are made for proper operation.
   - Typically Power reaches all components through vertical channels and horizontal metal pathways. This parallel design helps minimize electrical resistance.
@@ -65,8 +65,8 @@ To design an ASIC, we mainly require three parts
 
 <p align="center">
   <img width="400" height="250" src="../images/7.png">
-  <center>Power Planning</center>
 </p>
+<p align="center">Power Planning</p>
 
 `3. Placement`
   - Done in 2 steps: Global and Detailed
@@ -75,12 +75,12 @@ To design an ASIC, we mainly require three parts
 
 <p align="center">
   <img width=800" height="250" src="../images/12.png">
-  <center>Macro Placement</center>
 </p>
+<p align="center">Macro Placement</p>
 <p align="center">
   <img width="600" height="250" src="../images/8.png">
-  <center>Global and Detailed Placement</center>
 </p>
+<p align="center">Global and Detailed Placement</p>
 
 `4. Clock Tree Synthesis`
   - Before routing, we need to route the clock by creating the clock distribution network that delivers clock to all the sequential blocks
@@ -89,8 +89,8 @@ To design an ASIC, we mainly require three parts
 
 <p align="center">
   <img width="400" height="300" src="../images/9.png">
-  <center>Clock Tree Synthesis</center>
 </p>
+<p align="center">Clock Tree Synthesis</p>
 
 `5. Routing`
   - Routing software uses metal layers from the chip's design rules (PDK).
@@ -99,8 +99,8 @@ To design an ASIC, we mainly require three parts
   
 <p align="center">
   <img width="900" height="350" src="../images/10.png">
-  <center>Routing</center>
 </p>
+<p align="center">Routing</p>
 
 `6. Sign OFF`
   - Once Routing is done, the final layout goes for verification
@@ -126,5 +126,5 @@ It also has large number of design examples. Currently, 43 designs are available
 
 <p align="center">
   <img width="950" height="500" src="../images/11.png">
-  <center>OpenLane ASIC Design Flow</center>
 </p>
+<p align="center">OpenLane ASIC Design Flow</p>
