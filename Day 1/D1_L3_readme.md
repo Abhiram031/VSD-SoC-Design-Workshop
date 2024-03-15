@@ -4,6 +4,7 @@
 <p align="center">
   <img width="600" height="100" src="../images/13.png">
 </p>
+
 - we will be working in the openlane directory and PDKs directory as the name suggests contains all the PDK files
 <p align="center">
   <img width="800" height="350" src="../images/14.png">
