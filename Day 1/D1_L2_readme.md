@@ -23,7 +23,7 @@ To design an ASIC, we mainly require three parts
   - etc....
 
 
-##### ASIC Design Flow
+### ASIC Design Flow
 
 <p align="center">
   <img width="800" height="350" src="../images/2.png">
@@ -110,7 +110,7 @@ To design an ASIC, we mainly require three parts
     - Timing Verification:
       - `Static Timing Analysis` : ensure the circuit operates at the desired speed by meeting all timing constraints.
   
-#####  Introduction to OpenLane 
+###  Introduction to OpenLane 
 - `OpenLane`
   - ***Main goal is to produce a clean GDSII with no human intervention (no-human-in-the-loop).***
   - i.e. No LVS violations, No DRC violations
@@ -122,7 +122,7 @@ To design an ASIC, we mainly require three parts
 It also has large number of design examples. Currently, 43 designs are available with their best configurations.
 
 
-#####  Introduction to OpenLane detailed ASIC design flow
+###  Introduction to OpenLane detailed ASIC design flow
 
 <p align="center">
   <img width="950" height="500" src="../images/11.png">
