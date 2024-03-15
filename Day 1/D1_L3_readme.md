@@ -1309,13 +1309,13 @@
 OpenLane has multiple design files and we are  working on `picorv32a design`
 
 <p align="center">
-  <img width="700" height="100" src="../images/16.png">
+  <img width="850" height="150" src="../images/16.png">
 </p>
 
 - Next We will setup the design stage for the flow and to begin with synthesis of a design:
   `prep -design picorv32a`
 <p align="center">
-  <img width="800" height="350" src="../images/17.png">
+  <img width="1000" height="400" src="../images/17.png">
 </p>
 
 - This creates the new directory named `runs` under picorv32a folder that consists of folder with name as datetime when the above command is run. It consists of results, reports, command logs, etc. as shown below.
