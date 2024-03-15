@@ -1,4 +1,4 @@
-# SKY130_D1_SK2 - SoC design and OpenLane
+# SoC design and OpenLane
 
 <br />
 
