@@ -132,7 +132,7 @@ Here the DFF count:  `sky130_fd_sc_hd__dfxtp_2` = `1613`
 - And total number of cells = `14876`
 
     ```
-  D flip-flop ratio 	= count of DFFs / total number of cells
-  					= 1613 / 14876
-  					= 0.108429685 (OR) 10.8429 %
+  D flip-flop ratio  = count of DFFs / total number of cells
+  		     = 1613 / 14876
+  		     = 0.108429685 (OR) 10.8429 %
     ``` 
