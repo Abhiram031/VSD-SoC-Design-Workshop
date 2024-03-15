@@ -1,4 +1,4 @@
-### Get familiar to open-source EDA tools
+# Get familiar to open-source EDA tools
 
 - The Open Lane Directory has the following folders
 <p align="center">
