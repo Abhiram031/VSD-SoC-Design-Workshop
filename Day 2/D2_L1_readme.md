@@ -39,7 +39,7 @@
 </p>
 
 - The `README.md` describes all configuration variables for every stage and the tcl files contain the default OpenLANE settings.
-- And while running floorplan, configuration variables can also be set in two other files which are in `picorv32a` directory.(`config.tcl` and `sky130A_sky130_fd_sc_hd_config.tcl`)
+- And while running floorplan, configuration varibales can also be set in two other files which are in `picorv32a` directory.(`config.tcl` and `sky130A_sky130_fd_sc_hd_config.tcl`)
 - The priority order for these are (in increasing order)
   - `floorplan.tcl`
   - `config.tcl`
@@ -57,6 +57,18 @@
 
 - to run picorv32a Floorplan in OpenLANE use the command `% run floor_plan`
 - After running the floorplan output files are generated in this folder `openlane/designs/picorv32a/runs/date/results/floorplan/picorv32a.floorplan.def` which is a `design exchange format`, containing the die area and positions.
+<p align="center">
+  <img width="900" height="450" src="../images/diearea.png">
+</p>
+
+- the **`die area`** can be calculated as
+  ```shell
+  DIEAREA (0 0) (554570 565290)
+  And unit distance = 1000 microns
+
+  area of die = (554570/1000) microns * (565290/1000) microns = 311829.1653 microns^2
+  ```
+More about `.def` file can be read here 👉[Design Exchange Format (DEF)](https://ivlsi.com/design-exchange-format-def-in-vlsi-physical-design/) and also docs page [DEF 5.8 Language Reference](https://coriolis.lip6.fr/doc/lefdef/lefdefref/LEFSyntax.html)
 
 
 - the `def` file can be opened the `magic` using the commannd
