@@ -123,7 +123,7 @@ config.tcl
 </p>
 
 - In the above image as shown, the default parameters `FP_IO_VMETAL` and `FP_IO_HMETAL` in the `floorplan.tcl` were overriden by the parameters in the `config.tcl` file
-- Also the `FP_CORE_UTIL` default value is `50` and in the `config.tcl` it's value was set to `65`, but in the output `config.tcl` the value was `50` because in the `sky130A_sky130_fd_sc_hd_config.tcl` it's value was to `50` because of the higher priority.
+- Also the `FP_CORE_UTIL` default value is `50` and in the `config.tcl` it's value was set to `65`, but in the output `config.tcl` the value was `50` because in the `sky130A_sky130_fd_sc_hd_config.tcl` it's value was to `50` and thereby because of the higher priority of this `50` will be the core utilization.
 
 - Suppose if and erros occur, the logs can be viewed in `openlane/designs/picorv32a/runs/date/logs/floorplan/` 
 <p align="center">
