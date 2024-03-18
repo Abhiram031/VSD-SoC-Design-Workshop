@@ -39,7 +39,7 @@
 </p>
 
 - The `README.md` describes all configuration variables for every stage and the tcl files contain the default OpenLANE settings.
-- And while running floorplan, configuration varibales can also be set in two other files which are in `picorv32a` directory.(`config.tcl` and `sky130A_sky130_fd_sc_hd_config.tcl`)
+- And while running floorplan, configuration variables can also be set in two other files which are in `picorv32a` directory.(`config.tcl` and `sky130A_sky130_fd_sc_hd_config.tcl`)
 - The priority order for these are (in increasing order)
   - `floorplan.tcl`
   - `config.tcl`
