@@ -12,7 +12,7 @@
 </p>
 
 
-##### So How do we Model or Characterize these cells or gates?
+#### So How do we Model or Characterize these cells or gates?
 
 <p align="center">
   <img width="800" height="450" src="../images/41.png">
