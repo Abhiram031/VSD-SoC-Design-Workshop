@@ -12,7 +12,7 @@
 </p>
 
 
-> ##### So How do we Model or Characterize these cells or gates?
+##### So How do we Model or Characterize these cells or gates?
 
 <p align="center">
   <img width="800" height="450" src="../images/41.png">
@@ -32,7 +32,7 @@
   <img width="1000" height="550" src="../images/43.png">
 </p>
 <p align="center">
-  <b>Inputs for cell desing flow(DRC & LVS rules, SPICE models, library & User defined specs)</b>
+  <b>Inputs for cell design flow(DRC & LVS rules, SPICE models, library & User defined specs)</b>
 </p>
 
 <p align="center">
@@ -42,7 +42,7 @@
   <b>Design Steps(Ciruit and Layout design)</b>
 </p>
 
-#### Charceterization Flow
+## Characterization Flow
 
 1. Read in the Model Files (PMOS, NMOS etc..)
 2. Read the extracted spce netlist
