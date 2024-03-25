@@ -14,8 +14,8 @@
 			<ul>
 				<li><a href="Day 2/D2_L1_readme.md"> Chip Floor planning considerations</a></li>
 				<li><a href="Day 2/D2_L2_readme.md">Library Binding and Placement</a></li>
-                <li><a href="Day 2/D1_L3_readme.md">Cell design and characterization flows</a></li>
-				<li><a href="Day 2/D1_L4_readme.md"> General timing characterization parameters</a></li>
+                <li><a href="Day 2/D2_L3_readme.md">Cell design and characterization flows</a></li>
+				<li><a href="Day 2/D2_L4_readme.md"> General timing characterization parameters</a></li>
 			</ul>
 		</li>
 		<li>
