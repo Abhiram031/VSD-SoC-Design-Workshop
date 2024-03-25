@@ -2,6 +2,7 @@
 
 ## Timing modelling using delay tables
 
+
 #### Lab steps to convert grid info to track info
 
 - We only require `lef` file which contains the cell physical information, we don't require all the information in the `mag` file.
@@ -29,7 +30,7 @@
   <img width="1100" height="" src="../images/105.png">
 </p>
 
-- now we rezie the grid as per the dimensions in `track.info`
+- now we resize the grid as per the dimensions in `track.info`
 
 ```shell
 grid 0.46um 0.34um 0.23um 0.17um
@@ -134,20 +135,24 @@ run_synthesis
   <img width="1000" height="" src="../images/136.png">
 </p>
 
-#### **``skew is zero since delay for both clock path is x9'+y15``**
+**``skew is zero since delay for both clock path is x9'+y15``**
 
 
 
 #### Steps to configure synthesis settings to fix slack
 
+- view the synthesis paramters in `readme.md` and look for those which could affect the slack by changing it. 👇
 <p align="center">
   <img width="1000" height="" src="../images/121.png">
 </p>
 
+- Now the below commands one by one
 ```
 prep -design picorv32a -tag 16-03_17-49 -overwrite
 set lefs [glob $::env(DESIGN_DIR)/src/*.lef]
 add_lefs -src $lefs
+
+# display current value of variable SYNTH_STRATEGY
 echo $::env(SYNTH_STRATEGY)
 
 # setting new value for SYNTH_STRATEGY
