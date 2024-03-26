@@ -26,5 +26,22 @@
 				<li><a href="Day 3/D3_L3_readme.md"> LAB - ngspice simulations and Sky130 Tech File Labs</a></li>
 			</ul>
 		</li>
+		<li>
+			Day 4:  Pre-layout timing analysis and importance of good clock tree
+			<ul>
+				<li><a href="Day 4/D4_L1_readme.md">  Timing modelling using delay tables</a></li>
+				<li><a href="Day 4/D4_L2_readme.md">Timing analysis with ideal clocks using openSTA</a></li>
+				<li><a href="Day 4/D4_L3_readme.md">Clock tree synthesis TritonCTS and signal integrity</a></li>
+				<li><a href="Day 4/D4_L4_readme.md">Timing analysis with real clocks</a></li>
+			</ul>
+		</li>
+		<li>
+			Day 5: Final steps for RTL2GDS using tritonRoute and openSTA
+			<ul>
+				<li><a href="Day 5/D5_L1_readme.md"> Routing and design rule check (DRC)</a></li>
+				<li><a href="Day 5/D5_L2_readme.md">Power Distribution Network and routing</a></li>
+				<li><a href="Day 5/D5_L3_readme.md">TritonRoute Features</a></li>
+			</ul>
+		</li>
 	</ol>
 </details>
