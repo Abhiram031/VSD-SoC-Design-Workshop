@@ -54,5 +54,5 @@ This repository contains documentation from a 2-week workshop (March 13-26, 2024
 
 
 ## Acknowledgements
- - [Kunal Ghosh - Co-founder of VSD](https://www.udemy.com/user/anagha/)
+ - [Kunal Ghosh - Co-founder of VSD](https://in.linkedin.com/in/kunal-ghosh-vlsisystemdesign-com-28084836?utm_source=share&utm_medium=member_mweb&utm_campaign=share_via&utm_content=profile)
  - [Nickson Jose - Workshop Instructor](https://www.udemy.com/user/nickson-jose/)
