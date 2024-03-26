@@ -45,7 +45,7 @@
   <img width="1000" height="" src="../images/184.png">
 </p>
 
-- Doing and Post-CTS OpenROAD timing analysis.
+- Post-CTS OpenROAD timing analysis
 - for this we invoke `OpenROAD` in the `OpenFLOW` and execute the following commands
 ```shell
 openroad
