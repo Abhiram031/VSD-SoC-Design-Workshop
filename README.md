@@ -1,5 +1,10 @@
+
+# VLSI SoC Design and Planning
+
+This repository contains documentation from a 2-week workshop (March 13-26, 2024) on VLSI SoC Design and Planning using OpenLANE with the `SKY130nm PDK`. The workshop covers the complete `RTL2GDSII` flow within the open-source `OpenLANE` framework
+
 <details open="open">
-	<summary>Table of Contents</summary>
+	<summary>Workshop Content</summary>
 	<ol>
 		<li>
 			Day 1: Inception of open-source EDA, OpenLane and Sky130 PDK
@@ -45,3 +50,9 @@
 		</li>
 	</ol>
 </details>
+
+
+
+## Acknowledgements
+ - [Kunal Ghosh - Co-founder of VSD](https://www.udemy.com/user/anagha/)
+ - [Nickson Jose - Workshop Instructor](https://www.udemy.com/user/nickson-jose/)
