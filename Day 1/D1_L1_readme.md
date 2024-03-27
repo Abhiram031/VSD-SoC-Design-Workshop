@@ -7,7 +7,7 @@ So, to start how actually we talk to the computers.. Let's dive into this topic
 To begin with, each computer has a Processor/SoC which all generally have all of the things shown in the below image.
 
 <p align="center">
-  <img width="600" height="350" src="images\1.png">
+  <img width="600" height="350" src="images/1.png">
 </p>
 
 Inside the Processor, what lies is the core of the everything. For example take Arduino Leonardo, which has the ATMega32u4 RISC-based microcontroller.
